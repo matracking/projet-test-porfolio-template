@@ -1,0 +1,78 @@
+body{
+    background-color: whitesmoke;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+    font-family: 'Metal Mania', cursive;
+}  
+
+}
+
+
+    p {
+        height: 100px;
+        line-height: 1px;
+        text-align: center;
+        border: 2px;
+        color: black;
+        font-family: 'Open Sans', sans-serif;
+      }
+      h2 {
+        background-color: gray;
+        height: 100px;
+        font-size: 30px;
+        line-height: 100px;
+        text-align: center;
+        border: 2px;
+        color: black;
+        font-family:'Metal Mania', cursive; 
+      
+    
+      }
+
+    
+#navigation {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background-color:gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    list-style: none;
+  }
+  #navigation li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 45px;
+    color: #fff;
+    vertical-align: middle;
+  }
+  #navigation li:nth-child(4) {
+    margin-right: 0px;
+  }
+header{
+    background-color:lightseagreen;
+    height: 500px;
+}
+section{
+    
+}
+.about {
+    background-color:#cce7e8;
+    height: 400px;
+}
+.experiences{
+    background-color: #69bdd2;
+    height: 400px;
+}
+.competences{
+    background-color:#1979a9;
+    height: 400px;
+}
